@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_arrow.xml" value="0.3995" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_launcher_background.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_menu.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_pizza_error.xml" value="0.2815" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/ic_profile.xml" value="0.289" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/price_backgrund.xml" value="0.4525" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/select_type.xml" value="0.2815" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/shadow.xml" value="0.3755" />
+        <entry key="..\:/FoodMarket/app/src/main/res/drawable/type_food_background.xml" value="0.4475" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/activity_main.xml" value="1.1" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/fragment_basket.xml" value="1.0390625" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/fragment_home.xml" value="0.5541666666666667" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/fragment_menu.xml" value="0.5" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/fragment_profile.xml" value="0.5541666666666667" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/item_marketing.xml" value="0.67" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/item_type_food.xml" value="0.5" />
+        <entry key="..\:/FoodMarket/app/src/main/res/layout/pizza_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/FoodMarket/app/src/main/res/menu/bottom_nav_menu.xml" value="0.5541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
